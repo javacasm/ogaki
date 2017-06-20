@@ -18,3 +18,7 @@ Se trata de una evolución del Escornabot Brivoi y la electrónica v 2.21
 - motor-bracket.stl
 - wheel-l.stl
 - wheel-r.stl
+
+![Piezas 1](./images/Piezas_1.jpg)
+
+![Piezas 2](./images/Piezas_2.jpg)
