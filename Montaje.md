@@ -80,7 +80,7 @@ Comprobamos que el Arduino entra bien en el zócalo
 
 ### Cara de abajo
 
-![Caraabajo.jpg](./images/Caraabajo.jpg)
+![Caraabajo.jpg](./images/CaraAbajo.jpg)
 
 1 Conectores para motores
 
